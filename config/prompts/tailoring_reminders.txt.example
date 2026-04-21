@@ -1,0 +1,7 @@
+# Copy this file to tailoring_reminders.txt and add your own tailoring constraints.
+# These bullet points are appended to Claude's tailoring request as "Key reminders".
+# Use {job_title} as a placeholder — it will be substituted at runtime.
+
+- Your constraint 1
+- Your constraint 2
+- Your constraint 3

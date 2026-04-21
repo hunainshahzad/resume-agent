@@ -1,0 +1,10 @@
+httpx
+html2text
+playwright
+anthropic
+openai
+google-genai
+gspread
+pydantic
+python-dotenv
+click

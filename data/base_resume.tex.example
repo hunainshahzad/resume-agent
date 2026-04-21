@@ -1,0 +1,15 @@
+%-------------------------
+% Your Base Resume in LaTeX
+% Place your full resume here as the template the agent will tailor.
+% Save a copy of this as data/base_resume.tex (gitignored).
+%-------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+% Add your LaTeX resume content here...
+
+\begin{document}
+
+% Your name, contact info, education, experience, skills, etc.
+
+\end{document}

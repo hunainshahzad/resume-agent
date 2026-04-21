@@ -1,0 +1,5 @@
+# Copy this file to system_prompt.txt and write your own Claude system prompt.
+# This is the cached system prompt sent to Claude for resume tailoring.
+# It should contain your base resume LaTeX and tailoring instructions.
+
+Your system prompt goes here.

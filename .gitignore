@@ -1,0 +1,44 @@
+# Claude Code internals
+.agents/
+.awesome-claude-skills/
+.superpowers/
+.claude/
+
+# Environment & secrets
+.env
+config/credentials.json
+
+# Personal resume data & prompts (users provide their own)
+config/prompts/*.txt
+data/base_resume.tex
+
+# Generated output
+data/output/*.pdf
+data/output/*.tex
+data/cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

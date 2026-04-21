@@ -1,0 +1,4 @@
+# Copy this file to reviewer_prompt.txt and write your own GPT reviewer system prompt.
+# This is the system prompt sent to ChatGPT when reviewing your resume.
+
+Your reviewer prompt goes here.
